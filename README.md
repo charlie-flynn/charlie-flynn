@@ -31,7 +31,7 @@ and a second decision making strategy for AI.
 
 #### My Contributions
 - Most of the steering behaviors
-- Tweaked a pre-made Djikstra's algorithm to make A*
+- Tweaked a pre-made Djikstra's algorithm to make A*, using it to traverse a nodemap
 - A basic Blackboard
 - Made use of all of the above in a finite state machine for the aliens' behavior
 - Made two other entities, the EMU Dog and Walterberry
