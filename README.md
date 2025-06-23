@@ -23,7 +23,7 @@ do a handful of other tasks that had to be done.
 - Managers for the player's lives, score, and animations
 - Managers for the the title screen and game over screen
 
-### AI Game
+### [AI Game](https://github.com/charlie-flynn/GameFramework)
 
 NOT generative AI, I must clarify in this day and age. Game I was assigned to make myself using a pre-made game engine
 with minor tweaks. The game had to use A* pathfinding, 6 different steering behaviors, a finite state machine,
