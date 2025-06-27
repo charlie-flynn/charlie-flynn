@@ -14,7 +14,7 @@ This section will list the projects I think anyone looking on my profile can be 
 
 ### Runny Egg
 
-The cornerstone production of my first school year, I worked with 5 artists and 1 other programmer to
+The capstone production of my first school year, I worked with 5 artists and 1 other programmer to
 make a proper infinite runner game, art assets and all. I was assigned to be the player programmer, but I did 
 do a handful of other tasks that had to be done.
 
