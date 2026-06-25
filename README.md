@@ -8,7 +8,7 @@ I hope to some day have the honor of working on a video game that people will lo
 And hopefully that game is also actually good! Could you imagine a *bad* game being praised as if it's good? Hahaha! That
 would never happen!
 
-## Portfolio
+## Cool stuff I Made/Help Make
 
 This section will list the projects I think anyone looking on my profile can be impressed by!
 
