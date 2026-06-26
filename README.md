@@ -12,16 +12,17 @@ would never happen!
 
 This section will list the projects I think anyone looking on my profile can be impressed by!
 
-### Runny Egg
+### [Beasts of Blather Ranch](https://aieseattle.itch.io/beasts-of-blather-ranch)
 
-The capstone production of my first school year, I worked with 5 artists and 1 other programmer to
-make a proper infinite runner game, art assets and all. I was assigned to be the player programmer, but I did 
-do a handful of other tasks that had to be done.
+The capstone project of my second and final school year, made in Unreal Engine 5. I worked with a large team including students from another campus via video call and source control (Perforce) to make this project. I programmed some of the internal systems using C++.
 
 #### My Contributions
-- Player Controller
-- Managers for the player's lives, score, and animations
-- Managers for the the title screen and game over screen
+- When the game was intended to be a farming game, I made a building system.
+- Reworked the interaction system to be easier to design with and be better for our workflow.
+- Base functionality for the minigames, used in the second and third
+- Programmed the Starsheep's idle behavior and minigame
+- Implemented the ending cutscene
+- Various polishing bits
 
 ### [AI Game](https://github.com/charlie-flynn/GameFramework)
 
@@ -35,6 +36,17 @@ and a second decision making strategy for AI.
 - A basic Blackboard
 - Made use of all of the above in a finite state machine for the aliens' behavior
 - Made two other entities, the EMU Dog and Walterberry
+
+### [Runny Egg](https://eggwardorunnyegg.itch.io/runny-egg)
+
+The capstone production of my first school year, I worked with 5 artists and 1 other programmer to
+make a proper infinite runner game, art assets and all. I was assigned to be the player programmer, but I did 
+do a handful of other tasks that had to be done.
+
+#### My Contributions
+- Player Controller
+- Managers for the player's lives, score, and animations
+- Managers for the the title screen and game over screen
 
 <!--
 **charlie-flynn/charlie-flynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
